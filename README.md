@@ -1,5 +1,5 @@
 # background-generator
 
-Change the background colour in a webpage:
+A tool to change the background colour in an application.
 
-<img src='bg-generator.PNG'>
+<img src='bg-generator.PNG' width="600"/>
